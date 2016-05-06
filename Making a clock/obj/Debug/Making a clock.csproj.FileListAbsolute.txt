@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Making a clock\Making a clock\bin\Debug\Making a clock.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Making a clock\Making a clock\bin\Debug\Making a clock.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Making a clock\Making a clock\bin\Debug\Making a clock.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Making a clock\Making a clock\obj\Debug\Making a clock.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Making a clock\Making a clock\obj\Debug\Making a clock.pdb
